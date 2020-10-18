@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Scrollspy from 'react-scrollspy';
 import Scroll from './Scroll';
 
-import avatar from '../assets/images/avatar.png';
+import avatar from '../assets/images/profile.jpg';
 import config from '../../config';
 
 export class Sidebar extends Component {
@@ -35,7 +35,7 @@ export class Sidebar extends Component {
         className="navbar navbar-expand-lg navbar-dark bg-primary fixed-top"
         id="sideNav"
       >
-        <a className="navbar-brand" href="#page-top">
+        <a className="navbar-brand" href="#about">
           <span className="d-block d-lg-none">
             {config.firstName} {config.lastName}
           </span>
