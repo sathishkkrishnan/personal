@@ -1,6 +1,6 @@
 # Personal resume
 
-Built Using [here](https://github.com/anubhavsrivastava/gatsby-starter-resume
+Built Using [here](https://github.com/anubhavsrivastava/gatsby-starter-resume)
 
 ## Screenshot
 
