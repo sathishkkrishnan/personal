@@ -23,7 +23,7 @@ const IndexPage = () => (
             <a href={`mailto:${config.email}`}>{config.email}</a>
           </div>
           <p className="lead mb-5">
-          I'm a Technical Consultant with more than 18+ Years of Experience in Banking Product Development, Consulting, Implementation, and Support. 
+          I'm a Technical Consultant with more than 18+ Years of Experience in Banking Product Development, Consulting, Implementation and Support. 
           </p>
           <div className="social-icons">
             {config.socialLinks.map(social => {
