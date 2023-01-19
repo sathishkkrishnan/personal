@@ -11,12 +11,12 @@
     "email": "sathishkrishnan@digisco.dev"
   },
   "dependencies": {
-    "gatsby": "^2.20.2",
-    "gatsby-plugin-manifest": "^2.3.1",
-    "gatsby-plugin-offline": "^3.1.0",
-    "gatsby-plugin-react-helmet": "^3.2.0",
-    "gatsby-plugin-sass": "^2.2.0",
-    "node-sass": "^4.13.1",
+    "gatsby": "^4.2.0",
+    "gatsby-plugin-manifest": "^4.2.0",
+    "gatsby-plugin-offline": "^5.2.0",
+    "gatsby-plugin-react-helmet": "^5.2.0",
+    "gatsby-plugin-sass": "^5.2.0",
+    "node-sass": "^6.0.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-helmet": "^5.2.1",
