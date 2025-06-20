@@ -109,19 +109,18 @@ const IndexPage = () => (
                           <span className="company-name">{job.company}</span>
                           {job.companyBadge && (
                             <span className="company-badge ml-2">{job.companyBadge}</span>
-                          )}
-                        </div>
+                          )}                      </div>
+                    </div>
+                    <div className="col-md-4 text-center">
+                      <div className="duration-badge">
+                        <i className="fas fa-calendar-alt mr-2"></i>
+                        {job.duration}
                       </div>
-                      <div className="col-md-4 text-md-right">
-                        <div className="duration-badge">
-                          <i className="fas fa-calendar-alt mr-2"></i>
-                          {job.duration}
-                        </div>
-                        <div className="years-badge mt-2">
-                          <i className="fas fa-clock mr-1"></i>
-                          {job.years}
-                        </div>
+                      <div className="years-badge mt-2">
+                        <i className="fas fa-clock mr-1"></i>
+                        {job.years}
                       </div>
+                    </div>
                     </div>
                   </div>
                   
