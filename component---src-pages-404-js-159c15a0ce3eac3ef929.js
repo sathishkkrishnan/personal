@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkresumeapp=self.webpackChunkresumeapp||[]).push([[125],{3331:function(e,a,t){t.r(a);var l=t(6540),n=t(7454);a.default=()=>l.createElement(n.A,null,l.createElement("div",{className:"container-fluid p-0"},l.createElement("section",{className:"resume-section p-3 p-lg-5 d-flex align-items-center",id:"about"},l.createElement("header",{className:"major"},l.createElement("h2",null,"Page not found",l.createElement("br",null),"Not a valid URL")))))}}]);
+//# sourceMappingURL=component---src-pages-404-js-159c15a0ce3eac3ef929.js.map
