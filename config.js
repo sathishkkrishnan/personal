@@ -34,6 +34,6 @@ module.exports = {
     },
   ],
   email: 'sathishkrishnan@digisco.dev',
-  phone: '+91 9840322712',
-  address: 'Chennai, India',
+  phone: '+1 5879734255',
+  address: 'Calgary, Canada',
 };
