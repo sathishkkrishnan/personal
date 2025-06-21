@@ -45,7 +45,7 @@ module.exports = {
     {
       icon: 'fa-github',
       name: 'Github',
-      url: 'https://github.com/satskrishnan',
+      url: 'https://github.com/rapidcoderx',
     },
     {
       icon: 'fa-linkedin-in',
